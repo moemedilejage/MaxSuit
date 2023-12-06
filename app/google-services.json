@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535514084183",
+    "project_id": "suitcase2-d0112",
+    "storage_bucket": "suitcase2-d0112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535514084183:android:8d7c86e04326d5a6914412",
+        "android_client_info": {
+          "package_name": "com.imegga.suitcase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHqgdufGXtAbyfMhS1EEwCiUTBRHQ6Ozk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
